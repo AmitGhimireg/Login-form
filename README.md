@@ -1,2 +1,2 @@
 # Login-form
-login form created using html,css and js
+login form created using html and css.
